@@ -1,4 +1,4 @@
-📱 YouTube Metadata App – Client
+* YouTube Metadata App – Client
 
 React Native mobile app built with Expo.
 
@@ -8,7 +8,7 @@ Displays a scrollable list of YouTube videos.
 
 Opens a detail/player screen to play videos inside the app (using react-native-youtube-iframe).
 
-🚀 Features
+* Features
 
 Fetches 10 YouTube video IDs + metadata (title, channel, thumbnails, duration).
 
@@ -18,7 +18,7 @@ Tap to view details + in-app YouTube playback.
 
 Cross-platform (Android / iOS / Web with Expo).
 
-🛠️ Tech Stack
+* Tech Stack
 
 React Native (Expo)
 
